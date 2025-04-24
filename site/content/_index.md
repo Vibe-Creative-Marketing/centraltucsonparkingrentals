@@ -1,10 +1,10 @@
 ---
 title: Tucson Parking for Rent
 subtitle: Conveniently located throughout Central Tucson, the <a class="link dim" href="/portfolio">properties</a> below offer rental parking spaces. For availability and pricing, <a class="link dim" href="/contact">contact us today</a>.
-mobile: https://vibecdn.azureedge.net/ctpm/CTPR-mobile.jpg
-imageM: https://vibecdn.azureedge.net/ctpm/CTPR-map.jpg
+mobile: https://cdn.vibecreativemarketing.com/ctpm/CTPR-mobile.jpg
+imageM: https://cdn.vibecreativemarketing.com/ctpm/CTPR-map.jpg
 imageL:
-webpM: https://vibecdn.azureedge.net/ctpm/CTPR-map.webp
+webpM: https://cdn.vibecreativemarketing.com/ctpm/CTPR-map.webp
 webpL:
 heading: Learn More About Our Parking Rentals
 subheading:

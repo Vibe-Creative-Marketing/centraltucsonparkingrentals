@@ -1,10 +1,10 @@
 ---
 title: Central Tucson Property Management Portfolio
 subtitle: Showcased is our complete rental property management portfolio, including parking spaces, spread throughout the Central Tucson area. Our rental management provides several opportunities to find your perfect fit in Tucson based on lifestyle needs and preferences.
-mobile: https://vibecdn.azureedge.net/ctpm/map-mobile.jpg
-imageM: https://vibecdn.azureedge.net/ctpm/map-min.jpg
+mobile: https://cdn.vibecreativemarketing.com/ctpm/map-mobile.jpg
+imageM: https://cdn.vibecreativemarketing.com/ctpm/map-min.jpg
 imageL:
-webpM: https://vibecdn.azureedge.net/ctpm/map-min.webp
+webpM: https://cdn.vibecreativemarketing.com/ctpm/map-min.webp
 webpL:
 heading: Learn More About Our Properties
 subheading:
